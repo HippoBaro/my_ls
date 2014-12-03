@@ -8,6 +8,6 @@ Note : Ce projet étant un travail Epitech, il respecte la norme Epitech dont le
 
 -> une fonction ne doit pas éxéder 25 lignes par 80 colonnes.
 
--> les mots clé for, do...while, goto et switch.
+-> les mots clé for, do...while, goto et switch sont interdits.
 
 -> le code ne doit pas contenir de variables globales.
