@@ -11,3 +11,5 @@ Note : Ce projet étant un travail Epitech, il respecte la norme Epitech dont le
 -> les mots clé for, do...while, goto et switch sont interdits.
 
 -> le code ne doit pas contenir de variables globales.
+
+-> une fonction ne doit pas attendre plus de 4 parametres.
